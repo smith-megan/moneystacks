@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moneystacks/static/css/main.16971e0a.chunk.css",
-    "main.js": "/moneystacks/static/js/main.7ade6b60.chunk.js",
-    "main.js.map": "/moneystacks/static/js/main.7ade6b60.chunk.js.map",
+    "main.js": "/moneystacks/static/js/main.b3ba00ef.chunk.js",
+    "main.js.map": "/moneystacks/static/js/main.b3ba00ef.chunk.js.map",
     "runtime-main.js": "/moneystacks/static/js/runtime-main.c8e6396d.js",
     "runtime-main.js.map": "/moneystacks/static/js/runtime-main.c8e6396d.js.map",
     "static/js/2.de4ff843.chunk.js": "/moneystacks/static/js/2.de4ff843.chunk.js",
     "static/js/2.de4ff843.chunk.js.map": "/moneystacks/static/js/2.de4ff843.chunk.js.map",
     "index.html": "/moneystacks/index.html",
-    "precache-manifest.93d10a45825204965ca03e8007a73105.js": "/moneystacks/precache-manifest.93d10a45825204965ca03e8007a73105.js",
+    "precache-manifest.8402b7c4eb57fe2b0b140765ba557519.js": "/moneystacks/precache-manifest.8402b7c4eb57fe2b0b140765ba557519.js",
     "service-worker.js": "/moneystacks/service-worker.js",
     "static/css/main.16971e0a.chunk.css.map": "/moneystacks/static/css/main.16971e0a.chunk.css.map",
     "static/js/2.de4ff843.chunk.js.LICENSE.txt": "/moneystacks/static/js/2.de4ff843.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c8e6396d.js",
     "static/js/2.de4ff843.chunk.js",
     "static/css/main.16971e0a.chunk.css",
-    "static/js/main.7ade6b60.chunk.js"
+    "static/js/main.b3ba00ef.chunk.js"
   ]
 }
