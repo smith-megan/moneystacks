@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/moneystacks/precache-manifest.8402b7c4eb57fe2b0b140765ba557519.js"
+  "/moneystacks/precache-manifest.6db8951863471ce7114d5d86a5d15276.js"
 );
 
 self.addEventListener('message', (event) => {
