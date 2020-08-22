@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83cf172cd2dfde3bac33c257d5bf7d9c",
+    "revision": "e04842503ce0d26636d8786a1a22b0b7",
     "url": "/moneystacks/index.html"
   },
   {
-    "revision": "7b6454ead8a87568bd84",
-    "url": "/moneystacks/static/css/main.16971e0a.chunk.css"
+    "revision": "d860fde6db0eaab1403e",
+    "url": "/moneystacks/static/css/main.8f09122f.chunk.css"
   },
   {
-    "revision": "a3473f2e82a0d3698eb2",
-    "url": "/moneystacks/static/js/2.de4ff843.chunk.js"
+    "revision": "e10c425a15cdc8f24536",
+    "url": "/moneystacks/static/js/2.775daad3.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/moneystacks/static/js/2.de4ff843.chunk.js.LICENSE.txt"
+    "url": "/moneystacks/static/js/2.775daad3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b6454ead8a87568bd84",
-    "url": "/moneystacks/static/js/main.314dacbe.chunk.js"
+    "revision": "d860fde6db0eaab1403e",
+    "url": "/moneystacks/static/js/main.8c8878ec.chunk.js"
   },
   {
     "revision": "190dae8664cd0875b016",
