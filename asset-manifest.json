@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/moneystacks/static/css/main.8f09122f.chunk.css",
-    "main.js": "/moneystacks/static/js/main.e2110727.chunk.js",
-    "main.js.map": "/moneystacks/static/js/main.e2110727.chunk.js.map",
+    "main.css": "/moneystacks/static/css/main.f0d56023.chunk.css",
+    "main.js": "/moneystacks/static/js/main.85b435d0.chunk.js",
+    "main.js.map": "/moneystacks/static/js/main.85b435d0.chunk.js.map",
     "runtime-main.js": "/moneystacks/static/js/runtime-main.c8e6396d.js",
     "runtime-main.js.map": "/moneystacks/static/js/runtime-main.c8e6396d.js.map",
     "static/js/2.775daad3.chunk.js": "/moneystacks/static/js/2.775daad3.chunk.js",
     "static/js/2.775daad3.chunk.js.map": "/moneystacks/static/js/2.775daad3.chunk.js.map",
     "index.html": "/moneystacks/index.html",
-    "precache-manifest.fa23390c4a9b59385cdd7514cf3ed6f0.js": "/moneystacks/precache-manifest.fa23390c4a9b59385cdd7514cf3ed6f0.js",
+    "precache-manifest.3bd5e5c9b2f5fed491f1668727bae442.js": "/moneystacks/precache-manifest.3bd5e5c9b2f5fed491f1668727bae442.js",
     "service-worker.js": "/moneystacks/service-worker.js",
-    "static/css/main.8f09122f.chunk.css.map": "/moneystacks/static/css/main.8f09122f.chunk.css.map",
+    "static/css/main.f0d56023.chunk.css.map": "/moneystacks/static/css/main.f0d56023.chunk.css.map",
     "static/js/2.775daad3.chunk.js.LICENSE.txt": "/moneystacks/static/js/2.775daad3.chunk.js.LICENSE.txt",
     "static/media/banner.png": "/moneystacks/static/media/banner.b05a4b37.png",
     "static/media/moneystack.jpg": "/moneystacks/static/media/moneystack.3297cfd4.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c8e6396d.js",
     "static/js/2.775daad3.chunk.js",
-    "static/css/main.8f09122f.chunk.css",
-    "static/js/main.e2110727.chunk.js"
+    "static/css/main.f0d56023.chunk.css",
+    "static/js/main.85b435d0.chunk.js"
   ]
 }
