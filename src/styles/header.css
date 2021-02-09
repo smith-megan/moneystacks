@@ -1,0 +1,16 @@
+.header-div {
+  position: absolute;
+  right: 12%;
+  top: 10%;
+  z-index: 5;
+}
+
+.header-button {
+  background-color: transparent;
+  color: grey;
+}
+
+.header-button:hover {
+  background-color: transparent;
+  color: #325243;
+}
